@@ -6,7 +6,7 @@ Thank you for using Da Capo ("the App"). This Privacy Policy describes how the A
 
 ## TL;DR
 
-**Da Capo is a fully local application. We do not collect, transmit, or store any of your personal data on our servers.** All task data is stored exclusively on your device.
+**Da Capo is a fully local application. We do not collect, transmit, or store any of your personal data.** All task data is stored exclusively on your device.
 
 ## 1. Information We Do NOT Collect
 
