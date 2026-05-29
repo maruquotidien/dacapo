@@ -56,4 +56,4 @@
 
 若你對本政策有任何疑問，歡迎聯絡：
 
-Email: maruquotidien@gmail.com
+Email: maru.quotidien@gmail.com

@@ -56,4 +56,4 @@ If we make material changes to this policy, we will update this page and revise 
 
 For questions regarding this policy, please contact:
 
-Email: maruquotidien@gmail.com
+Email: maru.quotidien@gmail.com

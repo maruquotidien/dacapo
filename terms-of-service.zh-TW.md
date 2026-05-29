@@ -68,4 +68,4 @@
 
 ## 9. 聯絡我們
 
-Email: maruquotidien@gmail.com
+Email: maru.quotidien@gmail.com
